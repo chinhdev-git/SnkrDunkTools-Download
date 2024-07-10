@@ -5,7 +5,7 @@
 - **Date / 日付 / Ngày**: 10/7/2024
 
 ## Installation / インストール / Cài đặt
-1. **Download the APK file**: [Download APK](link_to_apk_file)
+1. **Download the APK file**: [Download APK](https://github.com/chinhdev-git/SnkrDunkTools-Download/releases/latest/download/app-release.apk)
 2. **Transfer the APK file to your Android device**: 
    - Transfer the APK file to your Android device.
 3. **Open the file on your device and follow the prompts to install the application**: 
