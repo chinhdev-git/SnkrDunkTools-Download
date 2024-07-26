@@ -1,8 +1,8 @@
-# Snkr Dunk Tools version 2.0.1
+# Snkr Dunk Tools version 2.0.3
 
 ## Release Notes / リリースノート / Ghi chú phát hành
-- **Version / バージョン / Phiên bản**: 2.0.1
-- **Date / 日付 / Ngày**: 10/7/2024
+- **Version / バージョン / Phiên bản**: 2.0.3
+- **Date / 日付 / Ngày**: 26/7/2024
 
 ## Installation / インストール / Cài đặt
 1. **Download the APK file**: [Download APK](https://github.com/chinhdev-git/SnkrDunkTools-Download/releases/latest/download/app-release.apk)
