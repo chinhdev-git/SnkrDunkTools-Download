@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/b10ea118-66b5-44c7-8825-942794319b8b" alt="tools_SnkrDunk" width="300"/>
+
 # Snkr Dunk Tools version 2.0.3
 
 ## Release Notes / リリースノート / Ghi chú phát hành
