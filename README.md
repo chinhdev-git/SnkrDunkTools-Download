@@ -1,10 +1,10 @@
 <img src="https://github.com/user-attachments/assets/b10ea118-66b5-44c7-8825-942794319b8b" alt="tools_SnkrDunk" width="300"/>
 
-# Snkr Dunk Tools version 2.0.3
+# Snkr Dunk Tools version 2.0.4
 
 ## Release Notes / リリースノート / Ghi chú phát hành
-- **Version / バージョン / Phiên bản**: 2.0.3
-- **Date / 日付 / Ngày**: 26/7/2024
+- **Version / バージョン / Phiên bản**: 2.0.4
+- **Date / 日付 / Ngày**: 27/7/2024
 
 ## Installation / インストール / Cài đặt
 1. **Download the APK file**: [Download APK](https://github.com/chinhdev-git/SnkrDunkTools-Download/releases/latest/download/app-release.apk)
@@ -31,6 +31,7 @@
 
 ## Contact / お問い合わせ / Liên hệ
 For any issues, feedback, or suggestions, please contact us at:
+- **Discord / メール / Email**: [Discord](https://discord.gg/73mzFaJxsd)
 - **Email / メール / Email**: [chinhdev.com@gmail.com](mailto:chinhdev.com@gmail.com)
 - **Website / ウェブサイト / Website**: [https://www.chinhdev.com/](https://www.chinhdev.com/)
 - **Support / サポート / Support**: [t.me/chinhdev](https://t.me/chinhdev)
