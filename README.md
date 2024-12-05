@@ -7,6 +7,9 @@
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fchinhdev-git%2FSnkrDunkTools-Download%2Freleases&query=%24.[%3A1].tag_name&label=Version)](https://github.com/chinhdev-git/SnkrDunkTools-Download/releases/tag/2.0.6)
 
 ![](https://img.shields.io/badge/System%20Requirements-Android-green)
+
+[![Download](https://img.shields.io/badge/Download-apk-blue)](https://github.com/chinhdev-git/SnkrDunkTools-Download/releases/latest/download/app-release.apk)
+
 ## Release Notes / リリースノート / Ghi chú phát hành
 - **Version / バージョン / Phiên bản**: 2.0.6
 - **Date / 日付 / Ngày**: 18/10/2024
