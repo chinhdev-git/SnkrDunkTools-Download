@@ -1,6 +1,10 @@
-<img src="https://github.com/user-attachments/assets/e0bbfb2d-5ced-455d-ab2e-bfae0307f981" alt="tools_SnkrDunk" width="300"/>
+<div style="text-align: center; margin: 0 auto;">
+    <img src="https://github.com/user-attachments/assets/e0bbfb2d-5ced-455d-ab2e-bfae0307f981" alt="tools_SnkrDunk" width="100%" height="300"/>
+</div>
 
-# Snkr Dunk Tools version 2.0.6
+
+# Snkr Dunk Tools
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fchinhdev-git%2FSnkrDunkTools-Download%2Freleases&query=%24.[%3A1].tag_name&label=Version)](https://github.com/chinhdev-git/SnkrDunkTools-Download/releases/tag/2.0.6)
 
 ## Release Notes / リリースノート / Ghi chú phát hành
 - **Version / バージョン / Phiên bản**: 2.0.6
