@@ -36,10 +36,9 @@
 
 [![chinhdev.com@gmail.com](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:chinhdev.com@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-white?logo=discord)](https://discord.gg/Qc4t3FS58u)
-
 [![Telegram](https://img.shields.io/badge/Telegram-white?logo=telegram)](https://t.me/chinhdev)
-[![Zalo](https://img.shields.io/badge/Zalo-white?logo=zalo&logoColor=%230866FF)](https://zalo.me/0969292868)
 
+[![Zalo](https://img.shields.io/badge/Zalo-white?logo=zalo&logoColor=%230866FF)](https://zalo.me/0969292868)
 [![Facbook](https://img.shields.io/badge/Facebook-white?logo=facebook&logoColor=%230866FF)](https://www.facebook.com/chinhdevcom/)
 [![https://www.chinhdev.com/](https://img.shields.io/badge/www.chinhdev.com-white?logo=firefoxbrowser)](https://www.chinhdev.com/)
   
