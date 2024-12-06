@@ -42,10 +42,5 @@
 
 [![Facbook](https://img.shields.io/badge/Facebook-white?logo=facebook&logoColor=%230866FF)](https://www.facebook.com/chinhdevcom/)
 [![https://www.chinhdev.com/](https://img.shields.io/badge/www.chinhdev.com-white?logo=firefoxbrowser)](https://www.chinhdev.com/)
-
-<a href="https://t.me/chinhdev" target="blank">
-  <img src="https://img.shields.io/badge/Telegram-white?logo=telegram" alt="Telegram">
-</a>
-
   
 Thank you for using our application!
