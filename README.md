@@ -4,15 +4,10 @@
 
 
 # Snkr Dunk Tools
+[![](https://img.shields.io/badge/Android-white?logo=android)]()
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fchinhdev-git%2FSnkrDunkTools-Download%2Freleases&query=%24.[%3A1].tag_name&label=Version)](https://github.com/chinhdev-git/SnkrDunkTools-Download/releases/tag/2.0.6)
-
-![](https://img.shields.io/badge/System%20Requirements-Android-green)
-
 [![Download](https://img.shields.io/badge/Download-apk-blue)](https://github.com/chinhdev-git/SnkrDunkTools-Download/releases/latest/download/app-release.apk)
 
-## Release Notes / リリースノート / Ghi chú phát hành
-- **Version / バージョン / Phiên bản**: 2.0.6
-- **Date / 日付 / Ngày**: 18/10/2024
 
 ## Installation / インストール / Cài đặt
 1. **Download the APK file**: [Download APK](https://github.com/chinhdev-git/SnkrDunkTools-Download/releases/latest/download/app-release.apk)
@@ -38,10 +33,14 @@
 - [List any known issues or bugs that users should be aware of.]
 
 ## Contact / お問い合わせ / Liên hệ
-For any issues, feedback, or suggestions, please contact us at:
-- **Discord / メール / Email**: [Discord](https://discord.gg/73mzFaJxsd)
-- **Email / メール / Email**: [chinhdev.com@gmail.com](mailto:chinhdev.com@gmail.com)
-- **Website / ウェブサイト / Website**: [https://www.chinhdev.com/](https://www.chinhdev.com/)
-- **Support / サポート / Support**: [t.me/chinhdev](https://t.me/chinhdev)
 
+[![chinhdev.com@gmail.com](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:chinhdev.com@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-white?logo=discord)](https://discord.gg/Qc4t3FS58u)
+
+[![Telegram](https://img.shields.io/badge/Telegram-white?logo=telegram)](https://t.me/chinhdev)
+[![Zalo](https://img.shields.io/badge/Zalo-white?logo=zalo&logoColor=%230866FF)](https://zalo.me/0969292868)
+
+[![Facbook](https://img.shields.io/badge/Facebook-white?logo=facebook&logoColor=%230866FF)](https://www.facebook.com/chinhdevcom/)
+[![https://www.chinhdev.com/](https://img.shields.io/badge/www.chinhdev.com-white?logo=firefoxbrowser)](https://www.chinhdev.com/)
+  
 Thank you for using our application!
