@@ -42,4 +42,4 @@
 [![Facbook](https://img.shields.io/badge/Facebook-white?logo=facebook&logoColor=%230866FF)](https://www.facebook.com/chinhdevcom/)
 [![https://www.chinhdev.com/](https://img.shields.io/badge/www.chinhdev.com-white?logo=firefoxbrowser)](https://www.chinhdev.com/)
   
-Thank you for using our application!
+**Thank you for using our application!**
