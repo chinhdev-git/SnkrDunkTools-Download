@@ -4,6 +4,8 @@
 
 [![](https://img.shields.io/badge/Android-white?logo=android)]() [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fchinhdev-git%2FSnkrDunkTools-Download%2Freleases&query=%24.[%3A1].tag_name&label=Version)](https://github.com/chinhdev-git/SnkrDunkTools-Download/releases/tag/2.0.6) [![Download](https://img.shields.io/badge/Download-apk-blue)](https://github.com/chinhdev-git/SnkrDunkTools-Download/releases/latest/download/app-release.apk)
 
+[Video](https://github.com/user-attachments/assets/2400f67d-7878-4723-8fa1-ee1889b12958)
+
 ## インストール
 1. APKファイルをダウンロードしてください。: [ダウンロード](https://github.com/chinhdev-git/SnkrDunkTools-Download/releases/latest/download/app-release.apk)
 2. APKファイルをAndroidデバイスに転送します。
