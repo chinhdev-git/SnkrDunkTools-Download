@@ -21,21 +21,16 @@
 
 ## よくある質問
 スニダンのアカウントは必要ですか？
-
 - はい、ツールを使用するにはスニダンのアカウントが必要です。
 
 価格最適化ツールは初心者でも使えますか？
-
 - はい、直感的なインターフェースで誰でも簡単に使用できます。
 
 既存のスニダンアカウントとの連携は簡単ですか？
-
 - はい、非常に簡単です。
 
 価格変更の頻度は調整できますか？
-
 - はい、ユーザーが希望する頻度で調整可能です。
-
 
 ## 連絡
 
@@ -48,6 +43,5 @@
 [![Zalo](https://img.shields.io/badge/Zalo-white?logo=zalo&logoColor=%230866FF)](https://zalo.me/0969292868)
 [![Facbook](https://img.shields.io/badge/Facebook-white?logo=facebook&logoColor=%230866FF)](https://www.facebook.com/chinhdevcom/)
 [![https://www.chinhdev.com/](https://img.shields.io/badge/www.chinhdev.com-white?logo=firefoxbrowser)](https://www.chinhdev.com/)
-  
 
 **アプリをご利用いただき、ありがとうございます！**
